@@ -1,6 +1,6 @@
 #README
 
-<a href="https://ibb.co/kSzpC5D"><img src="https://i.ibb.co/fxZbwqN/Sem-t-tulo.jpg" height="500px" alt="Sem-t-tulo" border="0"></a>
+<p align="center"><a href="https://ibb.co/kSzpC5D"><img src="https://i.ibb.co/fxZbwqN/Sem-t-tulo.jpg" height="500px" alt="Sem-t-tulo" border="0"></a></p>
 
 
 
